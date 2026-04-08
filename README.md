@@ -1,11 +1,11 @@
-<h1 align="center">Yash Kumar</h1>
+<h1 align="center">👋 Yash Kumar</h1>
 
 <p align="center">
   <b>AI/ML Engineer • Computer Vision Builder • Intelligent Systems Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=23&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI+Products+That+Solve+Real+Problems;Computer+Vision+%7C+LLMs+%7C+Automation+Systems;Engineering+Production-Ready+Intelligent+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+AI+Products+That+Solve+Real+Problems;Computer+Vision+|+LLMs+|+Automation+Systems;Engineering+Production-Ready+Intelligent+Software" />
 </p>
 
 <p align="center">
@@ -19,55 +19,63 @@
 
 ---
 
-## About Me
+## 📌 About Me
 
-- 🎓 Computer Science & AI Engineering Student  
-- 🤖 Specializing in **AI/ML Engineering, Computer Vision, and Intelligent Automation**
-- 🛠 Building **production-focused AI systems**, not just demos  
-- 🚀 Passionate about turning cutting-edge ML into usable software products  
-- 🎯 Targeting elite AI/ML Engineering roles and impactful startup opportunities  
-
----
-
-## Featured Projects
-
-### DevGhost AI
-**Autonomous AI Coding Assistant for Developers**
-- Multi-agent AI development workflow
-- Context-aware code generation and debugging
-- Designed for scalable developer productivity
+🎓 **Computer Science & AI Engineering Student**  
+🤖 Specializing in **AI/ML Engineering, Computer Vision, and Intelligent Automation**  
+🛠 Building **production-focused AI systems**, not just demos  
+🚀 Passionate about turning cutting-edge ML into usable software products  
+🎯 Targeting elite AI/ML Engineering roles and impactful startup opportunities  
 
 ---
 
-### CursorViaCam
-**Computer Vision Powered Head-Tracking Mouse**
-- Real-time head tracking via webcam using **MediaPipe + OpenCV**
-- Blink gesture click controls
-- Adaptive smoothing and cursor snapping
-- Accessibility-focused human-computer interaction tool
+## 🔥 Featured Projects
+
+### 🤖 DevGhost AI
+*Autonomous AI Coding Assistant for Developers*
+- Multi-agent AI development workflow  
+- Context-aware code generation and debugging  
+- Designed for scalable developer productivity  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-## Technical Stack
+### 🖱️ CursorViaCam
+*Computer Vision Powered Head-Tracking Mouse*
+- Real-time head tracking via webcam using **MediaPipe + OpenCV**  
+- Blink gesture click controls  
+- Adaptive smoothing and cursor snapping  
+- Accessibility-focused human-computer interaction tool  
 
-### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-009688?style=flat-square&logo=google&logoColor=white)
+
+---
+
+## 🧰 Technical Stack
+
+### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript" />
 </p>
 
-### AI / Machine Learning
+### 🧠 AI / Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
 </p>
 
-### Development / Infra
+### ⚙️ Development & Infra
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,docker,git,github,linux,vscode" />
 </p>
 
 ---
 
-## GitHub Metrics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mando1902&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
@@ -75,43 +83,45 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mando1902&theme=github-dark&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mando1902&theme=github-dark&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mando1902&theme=onedark&no-frame=true&row=1&column=6" width="95%" />
 </p>
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-- Large Language Model Engineering  
-- AI Agent Architectures  
-- Real-Time Computer Vision  
-- MLOps / Scalable AI Deployment  
-- Backend Systems for AI Products  
-
----
-
-## 2026 Engineering Goals
-
-- Ship Multiple Production-Grade AI Products  
-- Contribute to Meaningful Open Source Projects  
-- Reach Top-Tier AI/ML Engineering Level  
-- Build Systems Used by Real Users at Scale  
+- 🔹 Large Language Model Engineering  
+- 🔹 AI Agent Architectures  
+- 🔹 Real-Time Computer Vision  
+- 🔹 MLOps / Scalable AI Deployment  
+- 🔹 Backend Systems for AI Products  
 
 ---
 
-## Connect
+## 🚀 2026 Engineering Goals
+
+- ✅ Ship multiple production-grade AI products  
+- ✅ Contribute to meaningful open source projects  
+- ✅ Reach top-tier AI/ML engineering level  
+- ✅ Build systems used by real users at scale  
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-kumar-869144263">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="mailto:22f3001003@ds.study.iitm.ac.in">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://github.com/mando1902">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
