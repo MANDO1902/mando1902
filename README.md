@@ -1,100 +1,115 @@
-<!-- 🌌 Yash Kumar | Dark-Mode Neon GitHub Profile -->
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Yash+Kumar;AI+%26+Tech+Innovator+🤖;Creative+Coder+🎨;Welcome+to+My+Digital+Universe!+🚀" />
+  Hi, I'm Yash Kumar 👋
 </h1>
 
+<h3 align="center">
+AI/ML Engineer • Building Intelligent Systems • Turning Ideas Into Products
+</h3>
+
 <p align="center">
-<img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/animation.gif" width="200px" alt="animated-neon-line"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Engineering+AI+Products+That+Feel+Like+Magic;Computer+Vision+%7C+ML+Systems+%7C+Automation;Building+The+Future+One+Model+At+A+Time" />
 </p>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=header&text=&fontColor=ffffff" />
-</div>
+## 🧠 About Me
 
-<h2 align="center">🧠 About Me</h2>
+- 🎓 Computer Science & AI Engineering Student  
+- 🤖 Focused on **AI/ML Engineering, Computer Vision, and Intelligent Automation**
+- 🚀 Building production-grade AI tools and software systems  
+- 💡 Passionate about creating products where **AI meets real-world usability**
+- 📈 Targeting elite engineering roles in top-tier tech companies  
 
-<p align="center">
-👋 Hey there! I'm <b>Yash Kumar</b> — a curious mind who sees <b>technology as both science and art</b>.<br><br>
-🚀 I love blending <b>Artificial Intelligence</b>, <b>Design</b>, and <b>Code</b> to build experiences that feel almost alive.<br><br>
-🤖 Currently exploring the realms of <b>Machine Learning</b>, <b>Computer Vision</b>, and <b>Generative AI</b> — teaching machines to create, imagine, and innovate.<br><br>
-🌈 I believe in writing code that not only works but also <b>inspires</b> — where every algorithm tells a story and every design breathes creativity.<br><br>
-💭 Dreaming of a future where <b>AI meets Art</b> to shape the digital universe — one line of code at a time.
+---
+
+## 🔥 Featured Projects
+
+### 🧠 DevGhost AI
+> Autonomous AI Coding Assistant for Developers  
+- Multi-agent AI development workflow  
+- Production-ready code generation + debugging  
+- Context-aware engineering assistant for software teams  
+
+---
+
+### 🎥 CursorViaCam
+> Advanced Head-Tracking Mouse Control via Computer Vision  
+- Real-time webcam-based cursor control using **MediaPipe + OpenCV**
+- Blink-to-click gesture recognition  
+- Adaptive smoothing & UI snapping algorithms  
+- Accessibility-focused human-computer interaction system  
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript" />
+</p>
+
+### AI / ML / CV
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+### Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-<h2 align="center">⚙️ Tech Stack</h2>
+## 📊 GitHub Analytics
 
-#### 💻 Languages & Frameworks  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs&theme=dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mando1902&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.app/?user=mando1902&theme=tokyonight&hide_border=true" />
 </p>
 
-#### 🤖 AI & Data Science  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,jupyter&theme=dark" />
-</p>
-
-#### 🛠️ Tools & Platforms  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,blender&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mando1902&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-<h2 align="center">🌈 Creative Corner</h2>
+## 🌱 Currently Learning / Exploring
 
-<p align="center">
-🎬 Bringing ideas to life with <b>animation</b> & <b>motion design</b>.<br>
-🧩 Crafting <b>AI-driven art</b> and <b>generative visuals</b>.<br>
-🎵 Coding to <b>lo-fi beats</b> and <b>synthwave vibes</b>.
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mando1902&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mando1902&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" height="165" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mando1902&theme=react-dark&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" width="95%"/>
-</p>
+- LLM Engineering  
+- Advanced MLOps & Deployment  
+- AI Agent Architectures  
+- Real-Time Computer Vision Systems  
+- Scalable Backend Infrastructure  
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+## 🎯 2026 Goals
+
+- Build Multiple Production-Level AI Products  
+- Contribute to High-Impact Open Source  
+- Secure Elite AI/ML Engineering Opportunities  
+- Push Boundaries in Human-AI Interaction  
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yash-kumar-869144263" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+<a href="https://www.linkedin.com/in/yash-kumar-869144263">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://github.com/mando1902" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=0D1117"/>
-</a>
+
 <a href="mailto:22f3001003@ds.study.iitm.ac.in">
-<img src="https://img.shields.io/badge/Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/mando1902">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
 </p>
 
 ---
 
-<h2 align="center">✨ Fun Fact</h2>
-
 <p align="center">
-<i>"Code is not just logic — it's the poetry of the digital age."</i> 💻🌌
-</p>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer&text=&fontColor=ffffff" />
-</div>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<i>"Building systems that think, learn, and create."</i>
 </p>
