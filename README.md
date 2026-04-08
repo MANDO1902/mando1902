@@ -95,11 +95,6 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=mando1902&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mando1902&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mando1902&layout=compact&theme=github_dark&hide_border=true" width="400" />
 </p>
 
 ---
