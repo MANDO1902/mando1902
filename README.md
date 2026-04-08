@@ -17,37 +17,32 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-
-## 📌 About
-
-🎓 CS & AI Engineering Student  
-🤖 AI/ML · Computer Vision · Automation  
-🛠 Production‑first AI systems  
-🚀 ML → usable software  
-🎯 Targeting elite AI/ML roles  
-
-### 🎯 2026 Goals
-
-- ✅ Ship production‑grade AI products  
-- ✅ Contribute to OSS  
-- ✅ Reach top‑tier AI/ML level  
-- ✅ Build systems at scale  
-
+    <td width="55%" valign="top">
+      <h3>📌 About Me</h3>
+      <ul>
+        <li>🎓 <b>CS & AI Engineering Student</b></li>
+        <li>🤖 AI/ML • Computer Vision • Automation</li>
+        <li>🛠️ Building <b>production-ready</b> AI systems</li>
+        <li>🚀 Turning complex research into usable products</li>
+        <li>🎯 Targeting elite AI/ML Engineering roles</li>
+      </ul>
+      <h4>🎯 2026 Goals</h4>
+      <ul>
+        <li>✅ Ship multiple production-grade AI products</li>
+        <li>✅ Contribute to high-impact Open Source</li>
+        <li>✅ Build scalable systems used at scale</li>
+      </ul>
     </td>
-    <td width="50%" valign="top">
-
-## 🧰 Tech Stack
-
-**Languages**  
-`Python` `C++` `Java` `JavaScript` `TypeScript`
-
-**AI/ML**  
-`PyTorch` `TensorFlow` `OpenCV` `scikit-learn`
-
-**Dev & Infra**  
-`React` `Node.js` `Docker` `Git` `Linux`
-
+    <td width="45%" valign="top">
+      <h3>🧰 Tech Stack</h3>
+      <b>Languages</b><br>
+      <code>Python</code> <code>C++</code> <code>Java</code> <code>JS</code> <code>TS</code>
+      <br><br>
+      <b>AI / Machine Learning</b><br>
+      <code>PyTorch</code> <code>TensorFlow</code> <code>OpenCV</code> <code>sklearn</code>
+      <br><br>
+      <b>Dev & Infra</b><br>
+      <code>React</code> <code>Node.js</code> <code>Docker</code> <code>Git</code> <code>Linux</code>
     </td>
   </tr>
 </table>
