@@ -1,109 +1,91 @@
-<h1 align="center">Yash Kumar</h1>
-
 <p align="center">
-  <b>AI/ML Engineer · Computer Vision Builder · Intelligent Systems Developer</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi,+I'm+Yash+Kumar+👋;Building+The+Future+of+AI+🚀;Computer+Vision+%7C+LLMs+%7C+Automation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Products+That+Solve+Real+Problems;Computer+Vision+|+LLMs+|+Automation;Production-Ready+Intelligent+Software" />
+  <b>AI/ML Engineer • Turning Complex Research Into Intelligent Products</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/mando1902?label=Followers&style=flat-square&color=0A66C2" />
-  <img src="https://komarev.com/ghpvc/?username=mando1902&style=flat-square&color=blue" />
-</p>
-
----
-
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>📌 About Me</h3>
-      <ul>
-        <li>🎓 <b>CS & AI Engineering Student</b></li>
-        <li>🤖 AI/ML • Computer Vision • Automation</li>
-        <li>🛠️ Building <b>production-ready</b> AI systems</li>
-        <li>🚀 Turning complex research into usable products</li>
-        <li>🎯 Targeting elite AI/ML Engineering roles</li>
-      </ul>
-      <h4>🎯 2026 Goals</h4>
-      <ul>
-        <li>✅ Ship multiple production-grade AI products</li>
-        <li>✅ Contribute to high-impact Open Source</li>
-        <li>✅ Build scalable systems used at scale</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h3>🧰 Tech Stack</h3>
-      <b>Languages</b><br>
-      <code>Python</code> <code>C++</code> <code>Java</code> <code>JS</code> <code>TS</code>
-      <br><br>
-      <b>AI / Machine Learning</b><br>
-      <code>PyTorch</code> <code>TensorFlow</code> <code>OpenCV</code> <code>sklearn</code>
-      <br><br>
-      <b>Dev & Infra</b><br>
-      <code>React</code> <code>Node.js</code> <code>Docker</code> <code>Git</code> <code>Linux</code>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔥 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 DevGhost AI</h3>
-      <i>Autonomous AI Coding Assistant</i>
-      <ul>
-        <li>Multi‑agent AI dev workflow</li>
-        <li>Context‑aware code generation</li>
-        <li>Scalable dev productivity</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🖱️ CursorViaCam</h3>
-      <i>Head‑Tracking Mouse via Webcam</i>
-      <ul>
-        <li>Real‑time head tracking (MediaPipe + OpenCV)</li>
-        <li>Blink gesture click controls</li>
-        <li>Accessibility HCI tool</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/MediaPipe-009688?style=flat-square&logo=google&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mando1902&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <a href="https://github.com/mando1902?tab=followers">
+    <img src="https://img.shields.io/github/followers/mando1902?label=Followers&style=flat-square&color=FF69B4" />
+  </a>
+  &#8287;
+  <a href="https://www.linkedin.com/in/yash-kumar-869144263">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=flat-square&logo=linkedin" />
+  </a>
+  &#8287;
+  <a href="mailto:22f3001003@ds.study.iitm.ac.in">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect
+<details open>
+<summary><b>👤 About & Strategic Goals</b></summary>
+<br>
+
+🎓 **Computer Science & AI Engineering Student**  
+🤖 Specializing in **AI/ML Engineering, Computer Vision, and Agents**  
+🛠️ Focused on **production‑ready systems**, not just experimental demos  
+🚀 Passionate about the intersection of **Latent Space and Human Interaction**
+
+#### 🎯 2026 Milestones
+- [x] Master LLM Engineering & Agentic Architectures
+- [x] Ship 3+ Production-Grade AI Software Products
+- [x] Contribute to major Open Source AI repositories
+- [x] Reach elite-level MLOps & Deployment skills
+</details>
+
+---
+
+<details open>
+<summary><b>🔥 Featured Projects</b></summary>
+<br>
+<p align="left">
+  <a href="https://github.com/mando1902/DevGhost-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mando1902&repo=mando1902&theme=react&hide_border=true" width="400" />
+  </a>
+  <a href="https://github.com/mando1902/CursorViaCam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mando1902&repo=mando1902&theme=react&hide_border=true" width="400" />
+  </a>
+</p>
+</details>
+
+---
+
+<details>
+<summary><b>🧰 Technical Powerhouse</b></summary>
+<br>
+
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript" />
+
+**AI / Machine Learning**  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+
+**Development & Cloud**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,git,github,linux,vscode" />
+</details>
+
+---
+
+<details>
+<summary><b>📊 Performance Metrics</b></summary>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mando1902&show_icons=true&theme=react&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mando1902&theme=react&hide_border=true" height="170" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-kumar-869144263"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:22f3001003@ds.study.iitm.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mando1902"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mando1902&theme=react&hide_border=true&area=true" width="100%" />
 </p>
+</details>
 
 ---
 
 <p align="center">
-  <i>Building systems that think, learn, and create.</i>
+  <i>"Building systems that think, learn, and create."</i>
 </p>
