@@ -45,10 +45,10 @@
 <br>
 <p align="left">
   <a href="https://github.com/mando1902/DevGhost-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mando1902&repo=mando1902&theme=react&hide_border=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mando1902&repo=DevGhost-AI&theme=react&hide_border=true" width="400" />
   </a>
   <a href="https://github.com/mando1902/CursorViaCam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mando1902&repo=mando1902&theme=react&hide_border=true" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mando1902&repo=CursorViaCam&theme=react&hide_border=true" width="400" />
   </a>
 </p>
 </details>
@@ -75,8 +75,8 @@
 <summary><b>📊 Performance Metrics</b></summary>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mando1902&show_icons=true&theme=react&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mando1902&theme=react&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mando1902&show_icons=true&theme=react&hide_border=true" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mando1902&theme=react&hide_border=true" height="175" />
 </p>
 
 <p align="center">
